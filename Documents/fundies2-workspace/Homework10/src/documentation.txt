@@ -1,0 +1,15 @@
+
+     MAZE GENERATOR
+  
+  - maze begins in green box and ends in red box
+  - Blue box is on the current vertex
+  - press "n" key to generate a new maze
+  - press "v" key to generate a new maze with vertical bias
+  - press "h" key to generate a new maze with horizontal bias
+  - use arrow keys to traverse through maze
+  - press "b" key for breadth first search
+  - press "d" key for depth first search
+  
+     THANK YOU!! :)
+ 
+
